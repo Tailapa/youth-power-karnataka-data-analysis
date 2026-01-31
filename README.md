@@ -3,6 +3,8 @@ An end-to-end data pipeline analyzing regional development vectors across Karnat
 ### Engine: Python 
 ### libraries: Selenium, plotly, Sklearn, pandas, numpy
 
+---
+
 #### Karnataka Youth Power: 
   Data Convergence AnalysisAn end-to-end data engineering and EDA project that extracts regional development metrics and maps the "vector distance" between district infrastructure      and academic performance.
 
@@ -14,3 +16,13 @@ An end-to-end data pipeline analyzing regional development vectors across Karnat
 
 #### Key Findings: 
   The Efficiency-Capacity MeshOur regression model identified a weak but positive correlation ($r \approx 0.17$) between infrastructure investment and test scores. This suggests that   academic performance is a "multivariate vector" influenced by factors beyond just physical assets like libraries and colleges.
+
+
+---
+
+# Youth Power Karnataka Analysis
+
+[ CLICK HERE TO VIEW THE INTERACTIVE DATA DASHBOARD](https://tailapa.github.io/youth-power-karnataka-data-analysis/)
+
+---
+*This repository contains the source code and raw data vectors. For the full informative analysis, please visit the link above.*
